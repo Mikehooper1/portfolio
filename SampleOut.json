@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "TikTok will not be sold, Chinese parent ByteDance tells US",
+        "description": "The video sharing app faces being banned in the US unless it severs ties with its China's ByteDance.",
+        "url": "https://www.bbc.co.uk/news/articles/c289n8m4j19o",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/08a9/live/7b202790-0395-11ef-ba16-6b66497f92e6.jpg",
+        "publishedAt": "2024-04-26T18:07:16.8539138Z",
+        "content": "The sell-or-ban measure was signed into law by US President Joe Biden on Wednesday.\r\nBeijing's tightening grip on private companies has raised concerns in the US, and other Western countries, about h… [+1298 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Ben-Gvir, Israeli far-right minister, in car accident",
+        "description": "The controversial National Security Minister was taken to hospital after his car overturned.",
+        "url": "https://www.bbc.co.uk/news/world-middle-east-68908413",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/13AA9/production/_133235508_26be6a5a67a86758659d85b2fb4894b9a15514fd0_0_5500_36671000x667.jpg",
+        "publishedAt": "2024-04-26T18:07:15.041863Z",
+        "content": "Israel's far-right National Security Minister Itamar Ben-Gvir has been slightly injured and taken to hospital following a car accident, Israeli police say.\r\nFootage on social media showed a car that … [+1092 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "King Charles to resume public duties after progress in cancer treatment",
+        "description": "King Charles is returning to public events after making encouraging progress in his cancer treatment.",
+        "url": "https://www.bbc.co.uk/news/uk-68906421",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4B2B/production/_133234291_ba1c98acd2d884d2dd1cff0ce0dc0dd9d3da1f14.jpg",
+        "publishedAt": "2024-04-26T17:37:17.6668409Z",
+        "content": "King Charles will resume public engagements next week after making encouraging progress in his cancer treatment, Buckingham Palace has said.\r\nIt won't yet be a full return to official engagements for… [+3348 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "World's biggest 3D printer whirs into action",
+        "description": "It's hoped giant device will be able to print homes, bridges, boats and wind turbines.",
+        "url": "https://www.bbc.co.uk/news/articles/cx7d34nl5vwo",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/736f/live/5aa25450-03b0-11ef-82e8-cd354766a224.jpg",
+        "publishedAt": "2024-04-26T16:37:19.3078745Z",
+        "content": "Large 3D printers, such as that unveiled in Maine, are more like to be used to make parts of houses rather than full homes, says Dr Eujin Pei, who is an expert in additive manufacturing at Brunel Uni… [+1436 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Emma Stone: It would be 'so nice' to be called by my real name",
+        "description": "Emma chose the name change because Emily Stone - her real name - was taken by another actor.",
+        "url": "https://www.bbc.co.uk/news/articles/c9xze30w64eo",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/fe35/live/deb6f940-03d7-11ef-bee9-6125e244a4cd.jpg",
+        "publishedAt": "2024-04-26T16:37:17.9957011Z",
+        "content": "But she said during an interview, to promote her new film The Curse, that she \"freaked out a couple of years ago,\" about not using her real first name.\r\n\"For some reason, I was like, 'I cant do it an… [+269 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Andrew Tate and brother Tristan to be tried in Romania on rape and trafficking charges",
+        "description": "Controversial influencer Andrew Tate and his brother deny allegations of rape and human trafficking.",
+        "url": "https://www.bbc.co.uk/news/world-europe-68907298",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/17A4B/production/_133234869_288ae1b5735ff5aa65b2fc01b0d1abd650a45eec0_149_3840_21591000x563.jpg",
+        "publishedAt": "2024-04-26T16:07:18.1821726Z",
+        "content": "The trial of controversial influencer Andrew Tate and his brother Tristan is to go ahead, a court in Romania says.\r\nNo date has been set by the court which has been reviewing prosecutors' evidence an… [+1275 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Wang Yi tells Antony Blinken not to step on China's red lines",
+        "description": "Secretary of State Antony Blinken said he had raised a number of US concerns with the Chinese leader.",
+        "url": "https://www.bbc.co.uk/news/articles/c2547ll8z0ro",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2c93/live/fa199c40-0389-11ef-9495-9b97e48b2a5c.jpg",
+        "publishedAt": "2024-04-26T14:22:21.0103803Z",
+        "content": "Chinese Foreign Minister Wang Yi has cautioned his US counterpart Antony Blinken against stepping on China's \"red lines at a meeting between the two countries' top diplomats in Beijing.\r\nMr Wang ackn… [+2312 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Blinken says China helping fuel Russian threat to Ukraine",
+        "description": "The US Secretary of State was speaking to the BBC at the end of a three-day trip to China.",
+        "url": "https://www.bbc.co.uk/news/world-asia-china-68905475",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/893D/production/_133233153_mediaitem133233152.jpg",
+        "publishedAt": "2024-04-26T14:22:17.2133413Z",
+        "content": "US Secretary of State Antony Blinken has warned Washington will act if China does not stop supplying Russia with items used in its assault on Ukraine.\r\nSpeaking to the BBC in Beijing, the US's top di… [+1830 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Ellen DeGeneres says she 'got kicked out of showbusiness'",
+        "description": "DeGeneres returns to the spotlight with a new stand-up show - two years after her talk show ended.",
+        "url": "https://www.bbc.co.uk/news/articles/c89zy07x40no",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5010/live/81460fe0-03ae-11ef-bee9-6125e244a4cd.jpg",
+        "publishedAt": "2024-04-26T11:22:20.5105085Z",
+        "content": "For those of you keeping score, this is the second time Ive been kicked out of show businessEventually theyre going to kick me out for a third time because Im mean, old, and gay,\" she said. \r\nShe als… [+538 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "NewJeans: The controversy shaking the K-pop world",
+        "description": "The infighting between K-pop powerhouse Hybe and its label Ador has put fans on edge.",
+        "url": "https://www.bbc.co.uk/news/articles/c98zyq3g8xyo",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/aaf3/live/6ba81410-03a1-11ef-9170-254bfa1f73e4.jpg",
+        "publishedAt": "2024-04-26T09:52:20.5534598Z",
+        "content": "Seemingly every twist and turn has made headlines on South Korean news papers and K-pop fans' social media feeds.\r\nWhile both Hybe and Min Hee-jin have stressed their priority is to protect NewJeans,… [+948 chars]"
+      }
+    ]
+  }

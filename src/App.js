@@ -1,7 +1,7 @@
-//import logo from './logo.svg';
+
 import React,{useState} from 'react';
 import './App.css';
-//import ContactForm from './Components/ContactForm';
+import ContactForm from './Components/ContactForm';
 import Navbar from './Components/Navbar';
 import About from './Components/About'
 
@@ -11,6 +11,8 @@ import {
   Route,
   
 } from "react-router-dom";
+ import ImageResizer from './Components/ImageResizer';
+import News from './Components/News';
 
 function App() {
  
@@ -32,15 +34,21 @@ function App() {
     <>
     <Router>
     <Navbar title="Portfolio"  aboutText="About Portfolio" mode={mode} toggleMode={toggleMode}/>
-    <div className="container my-3">
+    
+    <div className="container my-3 " >
+      <h1  > -- MOHD SHAKIR HUSSAIN -- </h1>
     <Routes>
-    <Route path="/"></Route>
+    <Route path="/" element={<ImageResizer/>}>
+      </Route>
+      <Route exact path="/contact" element={<ContactForm/>}>
+      </Route>
           <Route exact path='/about' element={<About/>}>
+          </Route>
+          <Route exact path='/news' element={<News/>}>
           </Route>
         </Routes>
         </div>
     </Router>
-
     
 
             
